@@ -109,7 +109,7 @@ User Browser ↔️ Frontend (HTML/CSS/JS + Streamlit) ↔️ Flask Backend ↔�
 
 A project walkthrough is available in the demo video. You can watch it here:
 
-[▶️ Watch the Demo Video](https://your-video-url.com)
+[▶️ Watch the Demo Video](https://youtu.be/8IjmfIf2Vc8)
 
 ## Security & Compliance
 
@@ -141,8 +141,4 @@ A project walkthrough is available in the demo video. You can watch it here:
 - Department of Justice: [https://doj.gov.in](https://doj.gov.in)
 - Ministry of Law and Justice: [https://lawmin.gov.in](https://lawmin.gov.in)
 - eCourts Services: [https://ecourts.gov.in](https://ecourts.gov.in)
-
----
-
-*Developed by Team "Internet of Thinkers" for Smart India Hackathon 2024 (Problem Statement ID: SIH1700)*
 
